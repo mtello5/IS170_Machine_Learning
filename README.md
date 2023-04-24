@@ -1,9 +1,12 @@
+<h1>Matthew Tello's Machine Learning Binder<h1>
+
+
 <h2>👨‍💻 Table of Contents:</h2>
 
 - <b>Introduction</b>
   - [Overview of Machine Learning](https://github.com/mtello5/IS170_Machine_Learning/tree/1-Overview-of-Machine-Learning)
 - <b>Data Preparation and Feature Engineering</b>
-  - [Pandas & Feature Engineering](https://github.com/mtello5/IS170_Machine_Learning/tree/2-Pandas-%26-Feature-Engineering) <b><i>(Potentially NSFW)</b></i>
+  - [Pandas & Feature Engineering](https://github.com/mtello5/IS170_Machine_Learning/tree/2-Pandas-%26-Feature-Engineering)
   - [Text Mining & Natural Language Processing](https://github.com/mtello5/IS170_Machine_Learning/tree/3-Text-Mining-%26-Natural-Language-Processing)
 - <b>Clustering Techniques</b>
   - [K-means Clustering](https://github.com/mtello5/IS170_Machine_Learning/tree/4-K-means-clustering)
