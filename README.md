@@ -1,2 +1,4 @@
 # IS170 Machine Learning Binder
+![960x0](https://user-images.githubusercontent.com/78052803/234129275-64f49de0-87d7-4a27-accd-185f1cc8adfb.jpg)
+
 The majority of the material covered in my machine learning class was covered in this binder, which has a thorough collection of machine learning algorithms. The algorithms have been categorized and labeled for straightforward reference, making this document an extremely useful resource for upcoming projects as well as study. Techniques for supervised and unsupervised learning, such as regression analysis, decision trees, K-means clustering, and support vector machines are included in the methods. In addition, the binder contains a variety of different visualization tools and methods that are helpful in the process of data exploration and analysis. Overall, the machine learning algorithm application binder is a helpful tool for anyone who is interested in applying machine learning algorithms to real-world issues.
