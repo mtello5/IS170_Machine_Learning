@@ -1,1 +1,2 @@
-# IS170_Machine_Learning
+# Overview of Machine Learning
+Machine learming is a branch of artifical intelligence (AI) which uses computers to improve their performance on a particular task by "learning" from data and past examples rather than being explicitly programmed to do so. It does so by teaching the computer to learn by analyzing data from previously unseen patterns, correlations, and tendencies. Additionally, a model is constructed and improved upon by looking at historical data. The model's accuracy and precision continue to improve throughout the many training and testing iterations.
