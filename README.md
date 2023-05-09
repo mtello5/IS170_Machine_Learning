@@ -19,4 +19,4 @@
   - [Regression Analysis](https://github.com/mtello5/IS170_Machine_Learning/tree/9-Regression-Analysis)
   - [Decision Trees & Random Forests](https://github.com/mtello5/IS170_Machine_Learning/tree/10-Decision-Trees-%26-Random-Forests)
   - [Support Vector Machines](https://github.com/mtello5/IS170_Machine_Learning/tree/11-Support-Vector-Machines)
-- [<b>Social Media Analysis<b>](https://github.com/mtello5/IS170_Machine_Learning/tree/12-Social-Media-Analysis)
+- [<b>Social Network Analytics<b>](https://github.com/mtello5/IS170_Machine_Learning/tree/12-Social-Network-Analytics)
